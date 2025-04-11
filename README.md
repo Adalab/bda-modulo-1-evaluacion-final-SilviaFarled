@@ -8,17 +8,17 @@ Este ejercicio responde a la evaluación final del módulo 1 del bootcamp Data A
 
 **EVALUACIÓN CON CLASE**
 
-Así se han estructurado los datos:
+Así se han estructurado los datos según los recuadros:
 
-1- En una primera parte se ha creado la clase con sus atributos y todas las funciones indicadas en el ejercicio. Cada ejercicio está numerado siguiendo el orden del ejercicio. 
+1- Se ha creado la clase con sus atributos y todas las funciones solicitadas. Cada ejercicio está numerado siguiendo el orden del documento. 
 
-2- En el segundo recuadro está toda la información para dar formato y cargar las bases de datos de los atributos (ejercicios 1 y 9)
+2- Toda la información para dar formato y cargar las bases de datos de los atributos (ejercicios 1 y 9)
 
-3- En el siguiente recuadro se prueban las funciones de los ejercicios 2 al 6. 
+3- Prueba de las funciones definidas en los ejercicios 2 al 6. 
 
-4- En el cuarto recuadro activamos la función de compra (ejercicio 7). 
+4- Activamos la función de compra (ejercicio 7). 
 
-5- En este procesamos el pago indicado en el ejerccio 8. 
+5- Se procesa el pago indicado en el ejerccio 8. 
 
 6- Comprobamos el contenido de la lista de clientes (ejercicio 10)
 
@@ -27,5 +27,7 @@ Así se han estructurado los datos:
 8- Vemos el historial de compras de un cliente (ejercicio 12)
 
 9- Calculamos la facturación total de la tienda en base a las compras registradas en la base de datos de los clientes (ejercicio 13)
+
+Siguiendo las indicaciones se ha procurado utilizar una nomenclatura descriptiva en inglés.  
 
 Gracias por leerme! 
